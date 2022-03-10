@@ -22,7 +22,7 @@ The size of the familiarity is 6.9 × 11.2 mm. The image is formed from luminous
 
 ![](https://image.easyeda.com/histories/9a845fad1e1b445ca19e5a2c9cdfe5b4.png)
 
-## Same photo:
+## Some photo:
 
 ![foto_1](https://github.com/petro228/IV-6_Clock/blob/main/IV-6_1.jpg)
 
