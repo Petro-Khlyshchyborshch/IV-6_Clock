@@ -8,9 +8,6 @@ We used five IV-6 lamp.
 <p>Single-digit vacuum luminescent indicator for displaying information in the form of numbers, letters and dots. 
 The design is glass, subminiature. Indication is made through the lateral surface of the cylinder.
 The size of the familiarity is 6.9 × 11.2 mm. The image is formed from luminous segment anodes. The glow color is green.</p>
-<p>Pin:</p>
-
-![](http://begin.esxema.ru/wp-content/uploads/2014/01/iv6.jpg)
 
 ## Scheme and PCB
 <p>We used an EasyEDA for create scheme and PCB.</p>
