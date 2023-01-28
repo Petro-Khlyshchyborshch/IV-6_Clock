@@ -1,4 +1,4 @@
-# IV-6_Clock
+# IV-6 indecator clock
 ![foto_1](https://github.com/petro228/IV-6_Clock/blob/main/IV-6_1.jpg)
 I was inspired to create this project by retro style. This table clock in this style turns the attention of each guest.
 ## What is it?
