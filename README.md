@@ -1,4 +1,5 @@
 # IV-6_Clock
+![foto_1](https://github.com/petro228/IV-6_Clock/blob/main/IV-6_1.jpg)
 I was inspired to create this project by retro style. This table clock in this style turns the attention of each guest.
 ## What is it?
 It is a Arduino-based clock system which used IV-6 indicator lamp for display number.
@@ -24,6 +25,6 @@ The size of the familiarity is 6.9 × 11.2 mm. The image is formed from luminous
 
 ## Some photo:
 
-![foto_1](https://github.com/petro228/IV-6_Clock/blob/main/IV-6_1.jpg)
+
 
 ![foto_2](https://github.com/petro228/IV-6_Clock/blob/main/IV-6_2.jpg)
